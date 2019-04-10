@@ -1,0 +1,1 @@
+[2019-04-04 20:40:25] main.CRITICAL: Area code is not set {"exception":"[object] (Magento\\Framework\\Exception\\LocalizedException(code: 0): Area code is not set at /var/www/magento2/vendor/magento/framework/App/State.php:153)"} []
